@@ -1,5 +1,5 @@
-## Customer Churn Prediction
-# Project Overview
+# Customer Churn Prediction
+Project Overview
 
 This project builds a machine learning model to predict customer churn and uncover the key factors driving customer retention. Beyond prediction, the focus is on translating data into actionable business insights that can improve customer lifetime value.
 
@@ -38,13 +38,13 @@ Ranked features based on influence on predictions
 Translated technical output into business insights
 
 ## Key Insights
-# Pricing is the strongest driver of churn
+-Pricing is the strongest driver of churn
 Customers with higher monthly and total charges are more likely to leave
-# Customer tenure significantly impacts retention
+-Customer tenure significantly impacts retention
 New customers have higher churn risk, while long-term customers are more stable
-# Contract type influences commitment
+-Contract type influences commitment
 Month-to-month customers show higher churn compared to long-term contracts
-# Support services add moderate value
+-Support services add moderate value
 Features like Tech Support and Online Security contribute to retention but are secondary drivers
 
 ## Business Impact
